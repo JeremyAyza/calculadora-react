@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@media (max-width:700px) {
+  .container-banner{
+    transform: scale(0.7);
+  }
+  .contenedor-calculadora{
+    transform: scale(0.8);
+
+
+  }
+  
+}
