@@ -2,7 +2,6 @@ import './App.css';
 import Boton from './componentes/Boton';
 import Pantalla from './componentes/Pantalla';
 import BtnClear from './componentes/BtnClear';
-import Banner from './componentes/Banner';
 import { useState } from 'react';
 import { evaluate } from 'mathjs';
 

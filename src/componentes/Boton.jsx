@@ -7,7 +7,7 @@ function Boton(props){
   const esOperador=valor=>{
     // si No es un número && no es un punto && no es un '='
     // si F && F && F=> F
-    return isNaN(valor) && (valor!=".") && (valor !='=')
+    return isNaN(valor) && (valor!==".") && (valor !=='=')
   }
 
 
